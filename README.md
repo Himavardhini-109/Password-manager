@@ -1,4 +1,4 @@
-🔐 Password Manager
+##🔐 Password Manager
 
 A secure, web-based password management application designed to provide users with a safe and efficient method for storing and managing their credentials locally within the browser environment.
 
@@ -6,7 +6,7 @@ A secure, web-based password management application designed to provide users wi
 
 **Developer:** Himavardini  
 **Roll Number:** 222T1A3140  
-**Institution:** [University/College Name]  
+**Institution:** Ashoka Womens Engineering College.  
 **Academic Year:** 2024-2025
 
 ## 📋 Project Overview
