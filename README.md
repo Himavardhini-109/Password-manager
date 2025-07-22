@@ -1,4 +1,4 @@
-##🔐 Password Manager
+## 🔐 Password Manager
 
 A secure, web-based password management application designed to provide users with a safe and efficient method for storing and managing their credentials locally within the browser environment.
 
