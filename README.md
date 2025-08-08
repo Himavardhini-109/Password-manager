@@ -4,10 +4,10 @@ A secure, web-based password management application designed to provide users wi
 
 ## 👨‍💻 Developer Information
 
-**Developer:** Himavardini  
+**Developer:**O. Himavardhini  
 **Roll Number:** 222T1A3140  
 **Institution:** Ashoka Womens Engineering College.  
-**Academic Year:** 2024-2025
+
 
 ## 📋 Project Overview
 
